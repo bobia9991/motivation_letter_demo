@@ -16,7 +16,9 @@ Usage:
         chmod +x motivation_letter_Word_file_demo.R motivation_letter_trigger_demo.sh
 
 5. Store all information in the Jobs_list.txt file with the same format.
+
+6. Install Word and in R, install these packages: officer, readr, tidyverse, doconv.
    
-6. Run
+7. Run
    
         ./motivation_letter_trigger_demo.sh
