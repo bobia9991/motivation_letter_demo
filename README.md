@@ -5,7 +5,7 @@ Usage:
 
 1. Clone this repo
    
-        git clone: https://github.com/bobia9991/motivation_letter_demo.git
+        git clone https://github.com/bobia9991/motivation_letter_demo.git
    
 3. Change the working directory to the downloaded folder above
    
